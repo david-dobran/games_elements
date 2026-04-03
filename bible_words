@@ -1,0 +1,33 @@
+{
+  "characters": [
+    "Moses", "David", "Solomon", "Elijah", "Abraham", "Joseph", "Daniel",
+    "Peter", "Paul", "John", "Mary", "Esther", "Ruth", "Samson", "Gideon",
+    "Joshua", "Isaiah", "Jeremiah", "Ezekiel", "Noah", "Adam", "Eve",
+    "Cain", "Abel", "Jacob", "Isaac", "Sarah", "Rebecca", "Deborah", "Jonah"
+  ],
+  "objects": [
+    "Ark of the Covenant", "Staff of Moses", "David's Sling", "Ten Commandments",
+    "Crown of Thorns", "Noah's Ark", "Burning Bush", "Golden Calf", "Manna",
+    "Goliath's Sword", "Tablets of Stone", "Urim and Thummim", "Menorah",
+    "Bread of Life", "Alabaster Jar", "Scroll", "Phylactery", "Temple Veil"
+  ],
+  "places": [
+    "Jerusalem", "Egypt", "Bethlehem", "Nazareth", "Galilee", "Sinai",
+    "Jericho", "Babylon", "Garden of Eden", "Mount Carmel", "Dead Sea",
+    "Sea of Galilee", "Jordan River", "Gethsemane", "Golgotha", "Canaan",
+    "Nineveh", "Antioch", "Rome", "Ephesus", "Corinth", "Athens"
+  ],
+  "events": [
+    "The Exodus", "The Flood", "The Creation", "The Crucifixion", "The Resurrection",
+    "The Last Supper", "The Baptism of Jesus", "The Transfiguration",
+    "The Fall of Jericho", "The Parting of the Red Sea", "Pentecost",
+    "The Birth of Jesus", "The Ascension", "Daniel in the Lion's Den",
+    "Jonah and the Whale", "David and Goliath", "The Plagues of Egypt",
+    "The Tower of Babel", "The Wedding at Cana", "The Sermon on the Mount"
+  ],
+  "books": [
+    "Genesis", "Exodus", "Psalms", "Proverbs", "Isaiah", "Matthew",
+    "Mark", "Luke", "John", "Acts", "Romans", "Revelation", "Daniel",
+    "Esther", "Ruth", "Job", "Jonah", "Hebrews", "James", "Philippians"
+  ]
+}
