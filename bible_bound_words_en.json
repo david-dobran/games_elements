@@ -65,7 +65,7 @@
   { "id": "52", "word": "Exodus", "category": "Books", "taboo": ["Moses", "Egypt", "escape", "law", "Israel"] },
   { "id": "53", "word": "Leviticus", "category": "Books", "taboo": ["law", "priests", "rules", "holy", "sacrifice"] },
   { "id": "54", "word": "Numbers", "category": "Books", "taboo": ["count", "Israel", "desert", "people", "journey"] },
-  { "id": "55", "word": "Deuteronomy", "category": "Books", "taboo": ["law", "Moses", "repeat", "commandments", "Israel"] }
+  { "id": "55", "word": "Deuteronomy", "category": "Books", "taboo": ["law", "Moses", "repeat", "commandments", "Israel"] },
   
   { "id": "56", "word": "Joshua", "category": "Characters", "taboo": ["Jericho", "leader", "Israel", "Moses", "battle"] },
   { "id": "57", "word": "Gideon", "category": "Characters", "taboo": ["army", "300", "judge", "Midian", "battle"] },
