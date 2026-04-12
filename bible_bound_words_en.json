@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "word": "Moses",
+    "category": "Characters",
+    "taboo": ["staff", "Egypt", "Pharaoh", "Red Sea", "commandments"]
+  },
+  {
+    "id": "2",
+    "word": "Ark of the Covenant",
+    "category": "Objects",
+    "taboo": ["gold", "Moses", "tabernacle", "priests", "commandments"]
+  },
+  {
+    "id": "3",
+    "word": "Bethlehem",
+    "category": "Places",
+    "taboo": ["birth", "Jesus", "manger", "shepherds", "star"]
+  },
+  {
+    "id": "4",
+    "word": "The Last Supper",
+    "category": "Events",
+    "taboo": ["bread", "wine", "disciples", "Judas", "betrayal"]
+  },
+  {
+    "id": "5",
+    "word": "Genesis",
+    "category": "Books",
+    "taboo": ["creation", "Adam", "Eve", "first", "beginning"]
+  }
+]

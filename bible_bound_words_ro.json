@@ -1,0 +1,8 @@
+[
+  {
+    "id": "1",
+    "word": "Moise",
+    "category": "Personaje",
+    "taboo": ["toiag", "Egipt", "Faraon", "Marea Roșie", "porunci"]
+  }
+]
