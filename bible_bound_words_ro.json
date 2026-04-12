@@ -59,8 +59,8 @@
 { "id": "47", "word": "Creația", "category": "Evenimente", "taboo": ["început", "Dumnezeu", "pământ", "lumină", "zile"] },
 { "id": "48", "word": "Exodul", "category": "Evenimente", "taboo": ["Moise", "Egipt", "fugă", "Israel", "Faraon"] },
 { "id": "49", "word": "Răstignirea", "category": "Evenimente", "taboo": ["Isus", "cruce", "moarte", "cuie", "jertfă"] },
-{ "id": "50", "word": "Învierea", "category": "Evenimente", "taboo": ["Isus", "viu", "mormânt", "ridicare", "a treia zi"] }
-
+{ "id": "50", "word": "Învierea", "category": "Evenimente", "taboo": ["Isus", "viu", "mormânt", "ridicare", "a treia zi"] },
+  
 { "id": "51", "word": "Geneza", "category": "Cărți", "taboo": ["creație", "Adam", "Eva", "început", "Dumnezeu"] },
 { "id": "52", "word": "Exodul", "category": "Cărți", "taboo": ["Moise", "Egipt", "fugă", "lege", "Israel"] },
 { "id": "53", "word": "Levitic", "category": "Cărți", "taboo": ["lege", "preoți", "reguli", "sfânt", "jertfă"] },
@@ -119,7 +119,7 @@
 { "id": "97", "word": "Proverbe", "category": "Cărți", "taboo": ["înțelepciune", "zicători", "Solomon", "sfat", "carte"] },
 { "id": "98", "word": "Eclesiastul", "category": "Cărți", "taboo": ["sens", "viață", "deșertăciune", "înțelepciune", "carte"] },
 { "id": "99", "word": "Isaia", "category": "Cărți", "taboo": ["profet", "viziune", "Mesia", "carte", "Dumnezeu"] },
-{ "id": "100", "word": "Ieremia", "category": "Cărți", "taboo": ["profet", "plângere", "avertizare", "carte", "Dumnezeu"] }
+{ "id": "100", "word": "Ieremia", "category": "Cărți", "taboo": ["profet", "plângere", "avertizare", "carte", "Dumnezeu"] },
 
 { "id": "101", "word": "Ezechiel", "category": "Cărți", "taboo": ["profet", "viziune", "oase", "carte", "Dumnezeu"] },
 { "id": "102", "word": "Daniel", "category": "Cărți", "taboo": ["lei", "profet", "vise", "carte", "rege"] },
