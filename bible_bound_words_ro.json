@@ -1,4 +1,6 @@
-[
+{
+"version": 1,
+"words": [
 { "id": "1", "word": "Moise", "category": "Personaje", "taboo": ["toiag", "Egipt", "Faraon", "Marea Roșie", "porunci"] },
 { "id": "2", "word": "Avraam", "category": "Personaje", "taboo": ["Isaac", "promisiune", "tată", "legământ", "altar"] },
 { "id": "3", "word": "Noe", "category": "Personaje", "taboo": ["arcă", "potop", "animale", "ploaie", "legământ"] },
@@ -179,3 +181,4 @@
 { "id": "149", "word": "Învierea lui Lazăr", "category": "Evenimente", "taboo": ["mort", "viu", "Isus", "mormânt", "minune"] },
 { "id": "150", "word": "Marea Trimitere", "category": "Evenimente", "taboo": ["mergeți", "învățați", "ucenici", "națiuni", "Isus"] }
 ]
+}
