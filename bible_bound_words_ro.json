@@ -1,8 +1,181 @@
 [
-  {
-    "id": "1",
-    "word": "Moise",
-    "category": "Personaje",
-    "taboo": ["toiag", "Egipt", "Faraon", "Marea Roșie", "porunci"]
-  }
+{ "id": "1", "word": "Moise", "category": "Personaje", "taboo": ["toiag", "Egipt", "Faraon", "Marea Roșie", "porunci"] },
+{ "id": "2", "word": "Avraam", "category": "Personaje", "taboo": ["Isaac", "promisiune", "tată", "legământ", "altar"] },
+{ "id": "3", "word": "Noe", "category": "Personaje", "taboo": ["arcă", "potop", "animale", "ploaie", "legământ"] },
+{ "id": "4", "word": "David", "category": "Personaje", "taboo": ["Goliat", "rege", "Saul", "păstor", "psalmi"] },
+{ "id": "5", "word": "Solomon", "category": "Personaje", "taboo": ["înțelepciune", "templu", "rege", "Proverbe", "bogății"] },
+
+{ "id": "6", "word": "Iosif", "category": "Personaje", "taboo": ["haină", "vise", "Egipt", "frați", "închisoare"] },
+{ "id": "7", "word": "Maria", "category": "Personaje", "taboo": ["mamă", "Isus", "înger", "fecioară", "Betleem"] },
+{ "id": "8", "word": "Petru", "category": "Personaje", "taboo": ["ucenic", "stâncă", "a negat", "pescar", "Isus"] },
+{ "id": "9", "word": "Pavel", "category": "Personaje", "taboo": ["apostol", "scrisori", "Roma", "convertire", "misiune"] },
+{ "id": "10", "word": "Iuda", "category": "Personaje", "taboo": ["trădare", "argint", "sărut", "Isus", "ucenic"] },
+
+{ "id": "11", "word": "Adam", "category": "Personaje", "taboo": ["Eva", "grădină", "primul", "om", "creație"] },
+{ "id": "12", "word": "Eva", "category": "Personaje", "taboo": ["Adam", "șarpe", "fruct", "grădină", "femeie"] },
+{ "id": "13", "word": "Cain", "category": "Personaje", "taboo": ["Abel", "ucide", "frate", "jertfă", "semn"] },
+{ "id": "14", "word": "Abel", "category": "Personaje", "taboo": ["Cain", "frate", "jertfă", "ucis", "păstor"] },
+{ "id": "15", "word": "Isaac", "category": "Personaje", "taboo": ["Avraam", "fiu", "altar", "promisiune", "jertfă"] },
+
+{ "id": "16", "word": "Iacov", "category": "Personaje", "taboo": ["Esau", "scară", "Israel", "frate", "binecuvântare"] },
+{ "id": "17", "word": "Esau", "category": "Personaje", "taboo": ["Iacov", "păros", "drept de întâi născut", "frate", "vânătoare"] },
+{ "id": "18", "word": "Samuel", "category": "Personaje", "taboo": ["profet", "Ana", "voce", "Saul", "ungere"] },
+{ "id": "19", "word": "Saul", "category": "Personaje", "taboo": ["rege", "David", "Israel", "gelos", "profet"] },
+{ "id": "20", "word": "Ilie", "category": "Personaje", "taboo": ["profet", "foc", "Baal", "munte", "car"] },
+
+{ "id": "21", "word": "Elisei", "category": "Personaje", "taboo": ["profet", "Ilie", "minuni", "ulei", "vindecare"] },
+{ "id": "22", "word": "Iov", "category": "Personaje", "taboo": ["suferință", "credință", "prieteni", "pierdere", "Dumnezeu"] },
+{ "id": "23", "word": "Daniel", "category": "Personaje", "taboo": ["lei", "groapă", "rege", "rugăciune", "Babilon"] },
+{ "id": "24", "word": "Iona", "category": "Personaje", "taboo": ["pește", "balenă", "Ninive", "fugă", "profet"] },
+{ "id": "25", "word": "Estera", "category": "Personaje", "taboo": ["regină", "rege", "evrei", "salvare", "palat"] },
+
+{ "id": "26", "word": "Chivotul Legământului", "category": "Obiecte", "taboo": ["aur", "tabernacul", "porunci", "preoți", "sfânt"] },
+{ "id": "27", "word": "Cele Zece Porunci", "category": "Obiecte", "taboo": ["piatră", "lege", "Moise", "reguli", "Dumnezeu"] },
+{ "id": "28", "word": "Toiag", "category": "Obiecte", "taboo": ["Moise", "băț", "minune", "șarpe", "putere"] },
+{ "id": "29", "word": "Mană", "category": "Obiecte", "taboo": ["pâine", "cer", "deșert", "mâncare", "Israel"] },
+{ "id": "30", "word": "Coroana de spini", "category": "Obiecte", "taboo": ["Isus", "durere", "cap", "cruce", "soldați"] },
+
+{ "id": "31", "word": "Cruce", "category": "Obiecte", "taboo": ["Isus", "moarte", "lemn", "răstignire", "jertfă"] },
+{ "id": "32", "word": "Tablele Legii", "category": "Obiecte", "taboo": ["lege", "porunci", "Moise", "piatră", "Dumnezeu"] },
+{ "id": "33", "word": "Praștie", "category": "Obiecte", "taboo": ["David", "Goliat", "piatră", "armă", "băiat"] },
+{ "id": "34", "word": "Vițelul de aur", "category": "Obiecte", "taboo": ["idol", "închinare", "aur", "păcat", "Israel"] },
+{ "id": "35", "word": "Lampă cu ulei", "category": "Obiecte", "taboo": ["lumină", "fecioare", "ulei", "întuneric", "pildă"] },
+
+{ "id": "36", "word": "Betleem", "category": "Locuri", "taboo": ["naștere", "Isus", "iesle", "păstori", "stea"] },
+{ "id": "37", "word": "Ierusalim", "category": "Locuri", "taboo": ["oraș", "templu", "Israel", "capitală", "sfânt"] },
+{ "id": "38", "word": "Nazaret", "category": "Locuri", "taboo": ["Isus", "casă", "Maria", "Iosif", "oraș"] },
+{ "id": "39", "word": "Egipt", "category": "Locuri", "taboo": ["Faraon", "sclavie", "Moise", "plăgi", "Israel"] },
+{ "id": "40", "word": "Marea Roșie", "category": "Locuri", "taboo": ["apă", "Moise", "despărțire", "fugă", "Israel"] },
+
+{ "id": "41", "word": "Muntele Sinai", "category": "Locuri", "taboo": ["Moise", "lege", "munte", "Dumnezeu", "foc"] },
+{ "id": "42", "word": "Grădina Edenului", "category": "Locuri", "taboo": ["Adam", "Eva", "șarpe", "pom", "fruct"] },
+{ "id": "43", "word": "Rai", "category": "Locuri", "taboo": ["Dumnezeu", "îngeri", "etern", "sus", "sfânt"] },
+{ "id": "44", "word": "Iad", "category": "Locuri", "taboo": ["foc", "pedeapsă", "rău", "întuneric", "etern"] },
+{ "id": "45", "word": "Babilon", "category": "Locuri", "taboo": ["rege", "exil", "Daniel", "imperiu", "oraș"] },
+
+{ "id": "46", "word": "Potopul", "category": "Evenimente", "taboo": ["Noe", "ploaie", "arcă", "apă", "distrugere"] },
+{ "id": "47", "word": "Creația", "category": "Evenimente", "taboo": ["început", "Dumnezeu", "pământ", "lumină", "zile"] },
+{ "id": "48", "word": "Exodul", "category": "Evenimente", "taboo": ["Moise", "Egipt", "fugă", "Israel", "Faraon"] },
+{ "id": "49", "word": "Răstignirea", "category": "Evenimente", "taboo": ["Isus", "cruce", "moarte", "cuie", "jertfă"] },
+{ "id": "50", "word": "Învierea", "category": "Evenimente", "taboo": ["Isus", "viu", "mormânt", "ridicare", "a treia zi"] }
+
+{ "id": "51", "word": "Geneza", "category": "Cărți", "taboo": ["creație", "Adam", "Eva", "început", "Dumnezeu"] },
+{ "id": "52", "word": "Exodul", "category": "Cărți", "taboo": ["Moise", "Egipt", "fugă", "lege", "Israel"] },
+{ "id": "53", "word": "Levitic", "category": "Cărți", "taboo": ["lege", "preoți", "reguli", "sfânt", "jertfă"] },
+{ "id": "54", "word": "Numeri", "category": "Cărți", "taboo": ["numărare", "Israel", "deșert", "popor", "călătorie"] },
+{ "id": "55", "word": "Deuteronom", "category": "Cărți", "taboo": ["lege", "Moise", "repetare", "porunci", "Israel"] },
+
+{ "id": "56", "word": "Iosua", "category": "Personaje", "taboo": ["Ierihon", "lider", "Israel", "Moise", "luptă"] },
+{ "id": "57", "word": "Ghedeon", "category": "Personaje", "taboo": ["armată", "300", "judecător", "Midian", "luptă"] },
+{ "id": "58", "word": "Samson", "category": "Personaje", "taboo": ["putere", "păr", "Dalila", "filisteni", "templu"] },
+{ "id": "59", "word": "Rut", "category": "Personaje", "taboo": ["Boaz", "Noemi", "câmp", "credincioasă", "seceriș"] },
+{ "id": "60", "word": "Neemia", "category": "Personaje", "taboo": ["zid", "Ierusalim", "reconstrucție", "lider", "oraș"] },
+
+{ "id": "61", "word": "Ezra", "category": "Personaje", "taboo": ["scrib", "lege", "Ierusalim", "preot", "învățătură"] },
+{ "id": "62", "word": "Isaia", "category": "Personaje", "taboo": ["profet", "viziune", "Mesia", "carte", "Dumnezeu"] },
+{ "id": "63", "word": "Ieremia", "category": "Personaje", "taboo": ["profet", "plângere", "Ierusalim", "avertizare", "carte"] },
+{ "id": "64", "word": "Ezechiel", "category": "Personaje", "taboo": ["profet", "viziune", "oase", "roată", "Israel"] },
+{ "id": "65", "word": "Matei", "category": "Personaje", "taboo": ["evanghelie", "ucenic", "taxe", "Isus", "carte"] },
+
+{ "id": "66", "word": "Marcu", "category": "Personaje", "taboo": ["evanghelie", "carte", "Isus", "scriitor", "ucenic"] },
+{ "id": "67", "word": "Luca", "category": "Personaje", "taboo": ["evanghelie", "doctor", "carte", "Isus", "scriitor"] },
+{ "id": "68", "word": "Ioan", "category": "Personaje", "taboo": ["evanghelie", "ucenic", "dragoste", "carte", "Isus"] },
+{ "id": "69", "word": "Timotei", "category": "Personaje", "taboo": ["Pavel", "scrisori", "tânăr", "lider", "biserică"] },
+{ "id": "70", "word": "Barnaba", "category": "Personaje", "taboo": ["Pavel", "misiune", "încurajare", "biserică", "călătorie"] },
+
+{ "id": "71", "word": "Înger", "category": "Obiecte", "taboo": ["cer", "aripi", "mesager", "Dumnezeu", "lumină"] },
+{ "id": "72", "word": "Trompetă", "category": "Obiecte", "taboo": ["sunet", "Ierihon", "a sufla", "război", "muzică"] },
+{ "id": "73", "word": "Sul", "category": "Obiecte", "taboo": ["carte", "scris", "hârtie", "lege", "citire"] },
+{ "id": "74", "word": "Altar", "category": "Obiecte", "taboo": ["jertfă", "ofrandă", "Dumnezeu", "piatră", "închinare"] },
+{ "id": "75", "word": "Tămâie", "category": "Obiecte", "taboo": ["miros", "ardere", "templu", "rugăciune", "parfum"] },
+
+{ "id": "76", "word": "Templu", "category": "Obiecte", "taboo": ["Ierusalim", "închinare", "Dumnezeu", "clădire", "preoți"] },
+{ "id": "77", "word": "Văl", "category": "Obiecte", "taboo": ["templu", "rupt", "Isus", "separare", "sfânt"] },
+{ "id": "78", "word": "Pâine", "category": "Obiecte", "taboo": ["mâncare", "mâncat", "Cina", "trup", "fruct"] },
+{ "id": "79", "word": "Vin", "category": "Obiecte", "taboo": ["băutură", "sânge", "pahar", "Cina", "struguri"] },
+{ "id": "80", "word": "Coroană", "category": "Obiecte", "taboo": ["rege", "cap", "regal", "aur", "domnie"] },
+
+{ "id": "81", "word": "Ierihon", "category": "Locuri", "taboo": ["ziduri", "Iosua", "trompetă", "cădere", "oraș"] },
+{ "id": "82", "word": "Galileea", "category": "Locuri", "taboo": ["mare", "Isus", "regiune", "ucenici", "nord"] },
+{ "id": "83", "word": "Râul Iordan", "category": "Locuri", "taboo": ["apă", "botez", "Isus", "trecere", "râu"] },
+{ "id": "84", "word": "Capernaum", "category": "Locuri", "taboo": ["Isus", "oraș", "minuni", "Galileea", "casă"] },
+{ "id": "85", "word": "Golgota", "category": "Locuri", "taboo": ["cruce", "Isus", "moarte", "deal", "răstignire"] },
+
+{ "id": "86", "word": "Muntele Măslinilor", "category": "Locuri", "taboo": ["Isus", "rugăciune", "grădină", "deal", "Ierusalim"] },
+{ "id": "87", "word": "Ninive", "category": "Locuri", "taboo": ["Iona", "oraș", "pocăință", "popor", "Dumnezeu"] },
+{ "id": "88", "word": "Damasc", "category": "Locuri", "taboo": ["Pavel", "drum", "convertire", "oraș", "lumină"] },
+{ "id": "89", "word": "Roma", "category": "Locuri", "taboo": ["imperiu", "Pavel", "oraș", "scrisori", "capitală"] },
+{ "id": "90", "word": "Samaria", "category": "Locuri", "taboo": ["regiune", "femeie", "Isus", "evrei", "fântână"] },
+
+{ "id": "91", "word": "Botez", "category": "Evenimente", "taboo": ["apă", "Isus", "Ioan", "râu", "curățire"] },
+{ "id": "92", "word": "Cincizecime", "category": "Evenimente", "taboo": ["Duh", "foc", "limbi", "ucenici", "biserică"] },
+{ "id": "93", "word": "Înălțare", "category": "Evenimente", "taboo": ["Isus", "cer", "ridicare", "nor", "plecare"] },
+{ "id": "94", "word": "Nașterea lui Isus", "category": "Evenimente", "taboo": ["Betleem", "prunc", "iesle", "Maria", "stea"] },
+{ "id": "95", "word": "Ispitirea", "category": "Evenimente", "taboo": ["Isus", "diavol", "deșert", "post", "test"] },
+
+{ "id": "96", "word": "Psalmi", "category": "Cărți", "taboo": ["cântece", "David", "laudă", "muzică", "carte"] },
+{ "id": "97", "word": "Proverbe", "category": "Cărți", "taboo": ["înțelepciune", "zicători", "Solomon", "sfat", "carte"] },
+{ "id": "98", "word": "Eclesiastul", "category": "Cărți", "taboo": ["sens", "viață", "deșertăciune", "înțelepciune", "carte"] },
+{ "id": "99", "word": "Isaia", "category": "Cărți", "taboo": ["profet", "viziune", "Mesia", "carte", "Dumnezeu"] },
+{ "id": "100", "word": "Ieremia", "category": "Cărți", "taboo": ["profet", "plângere", "avertizare", "carte", "Dumnezeu"] }
+
+{ "id": "101", "word": "Ezechiel", "category": "Cărți", "taboo": ["profet", "viziune", "oase", "carte", "Dumnezeu"] },
+{ "id": "102", "word": "Daniel", "category": "Cărți", "taboo": ["lei", "profet", "vise", "carte", "rege"] },
+{ "id": "103", "word": "Osea", "category": "Cărți", "taboo": ["profet", "căsătorie", "dragoste", "Israel", "carte"] },
+{ "id": "104", "word": "Ioel", "category": "Cărți", "taboo": ["profet", "lăcuste", "zi", "Domnul", "carte"] },
+{ "id": "105", "word": "Amos", "category": "Cărți", "taboo": ["profet", "dreptate", "Israel", "avertizare", "carte"] },
+
+{ "id": "106", "word": "Obadia", "category": "Cărți", "taboo": ["profet", "Edom", "viziune", "judecată", "carte"] },
+{ "id": "107", "word": "Iona", "category": "Cărți", "taboo": ["pește", "Ninive", "profet", "fugă", "carte"] },
+{ "id": "108", "word": "Mica", "category": "Cărți", "taboo": ["profet", "Betleem", "dreptate", "Dumnezeu", "carte"] },
+{ "id": "109", "word": "Naum", "category": "Cărți", "taboo": ["profet", "Ninive", "judecată", "carte", "mânie"] },
+{ "id": "110", "word": "Habacuc", "category": "Cărți", "taboo": ["profet", "întrebare", "credință", "Dumnezeu", "carte"] },
+
+{ "id": "111", "word": "Țefania", "category": "Cărți", "taboo": ["profet", "zi", "Domnul", "judecată", "carte"] },
+{ "id": "112", "word": "Hagai", "category": "Cărți", "taboo": ["profet", "templu", "reconstrucție", "Dumnezeu", "carte"] },
+{ "id": "113", "word": "Zaharia", "category": "Cărți", "taboo": ["profet", "viziuni", "Mesia", "carte", "Dumnezeu"] },
+{ "id": "114", "word": "Maleahi", "category": "Cărți", "taboo": ["profet", "ultimul", "Vechiul Testament", "mesager", "carte"] },
+{ "id": "115", "word": "Matei", "category": "Cărți", "taboo": ["evanghelie", "Isus", "ucenic", "carte", "scriitor"] },
+  
+{ "id": "116", "word": "Marcu", "category": "Cărți", "taboo": ["evanghelie", "Isus", "carte", "scriitor", "ucenic"] },
+{ "id": "117", "word": "Luca", "category": "Cărți", "taboo": ["evanghelie", "doctor", "Isus", "carte", "scriitor"] },
+{ "id": "118", "word": "Ioan", "category": "Cărți", "taboo": ["evanghelie", "dragoste", "Isus", "carte", "ucenic"] },
+{ "id": "119", "word": "Faptele Apostolilor", "category": "Cărți", "taboo": ["apostoli", "biserică", "Duhul Sfânt", "istorie", "carte"] },
+{ "id": "120", "word": "Romani", "category": "Cărți", "taboo": ["Pavel", "scrisoare", "credință", "biserică", "carte"] },
+  
+{ "id": "121", "word": "1 Corinteni", "category": "Cărți", "taboo": ["Pavel", "scrisoare", "dragoste", "biserică", "carte"] },
+{ "id": "122", "word": "2 Corinteni", "category": "Cărți", "taboo": ["Pavel", "slăbiciune", "scrisoare", "biserică", "carte"] },
+{ "id": "123", "word": "Galateni", "category": "Cărți", "taboo": ["Pavel", "har", "lege", "biserică", "carte"] },
+{ "id": "124", "word": "Efeseni", "category": "Cărți", "taboo": ["Pavel", "armură", "biserică", "scrisoare", "carte"] },
+{ "id": "125", "word": "Filipeni", "category": "Cărți", "taboo": ["Pavel", "bucurie", "închisoare", "biserică", "carte"] },
+  
+{ "id": "126", "word": "Coloseni", "category": "Cărți", "taboo": ["Pavel", "Hristos", "biserică", "scrisoare", "carte"] },
+{ "id": "127", "word": "1 Tesaloniceni", "category": "Cărți", "taboo": ["Pavel", "revenire", "biserică", "carte", "scrisoare"] },
+{ "id": "128", "word": "2 Tesaloniceni", "category": "Cărți", "taboo": ["Pavel", "sfârșit", "biserică", "carte", "scrisoare"] },
+{ "id": "129", "word": "1 Timotei", "category": "Cărți", "taboo": ["Pavel", "lider", "tânăr", "biserică", "carte"] },
+{ "id": "130", "word": "2 Timotei", "category": "Cărți", "taboo": ["Pavel", "ultim", "scrisoare", "biserică", "carte"] },
+  
+{ "id": "131", "word": "Tit", "category": "Cărți", "taboo": ["Pavel", "lider", "biserică", "învățătură", "carte"] },
+{ "id": "132", "word": "Filimon", "category": "Cărți", "taboo": ["Pavel", "sclav", "iertare", "scrisoare", "carte"] },
+{ "id": "133", "word": "Evrei", "category": "Cărți", "taboo": ["credință", "Isus", "mare preot", "scrisoare", "carte"] },
+{ "id": "134", "word": "Iacov", "category": "Cărți", "taboo": ["credință", "fapte", "practic", "scrisoare", "carte"] },
+{ "id": "135", "word": "1 Petru", "category": "Cărți", "taboo": ["suferință", "apostol", "biserică", "scrisoare", "carte"] },
+  
+{ "id": "136", "word": "2 Petru", "category": "Cărți", "taboo": ["apostol", "avertizare", "falși", "scrisoare", "carte"] },
+{ "id": "137", "word": "1 Ioan", "category": "Cărți", "taboo": ["dragoste", "adevăr", "apostol", "scrisoare", "carte"] },
+{ "id": "138", "word": "2 Ioan", "category": "Cărți", "taboo": ["adevăr", "apostol", "biserică", "scrisoare", "carte"] },
+{ "id": "139", "word": "3 Ioan", "category": "Cărți", "taboo": ["ospitalitate", "apostol", "biserică", "scrisoare", "carte"] },
+{ "id": "140", "word": "Iuda", "category": "Cărți", "taboo": ["avertizare", "falși", "învățători", "scrisoare", "carte"] },
+  
+{ "id": "141", "word": "Apocalipsa", "category": "Cărți", "taboo": ["sfârșit", "viziune", "Ioan", "viitor", "carte"] },
+{ "id": "142", "word": "Turnul Babel", "category": "Evenimente", "taboo": ["limbă", "confuzie", "oameni", "construcție", "Dumnezeu"] },
+{ "id": "143", "word": "Rugul Aprins", "category": "Evenimente", "taboo": ["Moise", "foc", "voce", "Dumnezeu", "deșert"] },
+{ "id": "144", "word": "Despărțirea Mării Roșii", "category": "Evenimente", "taboo": ["Moise", "apă", "deschis", "Israel", "fugă"] },
+{ "id": "145", "word": "Căderea Ierihonului", "category": "Evenimente", "taboo": ["ziduri", "Iosua", "trompete", "oraș", "luptă"] },
+
+{ "id": "146", "word": "David și Goliat", "category": "Evenimente", "taboo": ["uriaș", "piatră", "luptă", "băiat", "filistean"] },
+{ "id": "147", "word": "Hrănirea celor 5000", "category": "Evenimente", "taboo": ["pâine", "pești", "Isus", "mulțime", "minune"] },
+{ "id": "148", "word": "Umblarea pe apă", "category": "Evenimente", "taboo": ["Isus", "mare", "Petru", "minune", "credință"] },
+{ "id": "149", "word": "Învierea lui Lazăr", "category": "Evenimente", "taboo": ["mort", "viu", "Isus", "mormânt", "minune"] },
+{ "id": "150", "word": "Marea Trimitere", "category": "Evenimente", "taboo": ["mergeți", "învățați", "ucenici", "națiuni", "Isus"] }
 ]
