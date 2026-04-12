@@ -1,4 +1,6 @@
-[
+{
+"version": 1,
+"words": [
   { "id": "1", "word": "Moses", "category": "Characters", "taboo": ["staff", "Egypt", "Pharaoh", "Red Sea", "commandments"] },
   { "id": "2", "word": "Abraham", "category": "Characters", "taboo": ["Isaac", "promise", "father", "covenant", "altar"] },
   { "id": "3", "word": "Noah", "category": "Characters", "taboo": ["ark", "flood", "animals", "rain", "covenant"] },
@@ -179,3 +181,4 @@
   { "id": "149", "word": "Raising Lazarus", "category": "Events", "taboo": ["dead", "alive", "Jesus", "tomb", "miracle"] },
   { "id": "150", "word": "Great Commission", "category": "Events", "taboo": ["go", "teach", "disciples", "nations", "Jesus"] }
 ]
+}
