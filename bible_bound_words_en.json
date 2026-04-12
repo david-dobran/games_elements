@@ -125,7 +125,7 @@
   { "id": "102", "word": "Daniel", "category": "Books", "taboo": ["lions", "prophet", "dreams", "book", "king"] },
   { "id": "103", "word": "Hosea", "category": "Books", "taboo": ["prophet", "marriage", "love", "Israel", "book"] },
   { "id": "104", "word": "Joel", "category": "Books", "taboo": ["prophet", "locusts", "day", "Lord", "book"] },
-  { "id": "105", "word": "Amos", "category": "Books", "taboo": ["prophet", "justice", "Israel", "warning", "book"] }
+  { "id": "105", "word": "Amos", "category": "Books", "taboo": ["prophet", "justice", "Israel", "warning", "book"] },
 
   { "id": "106", "word": "Obadiah", "category": "Books", "taboo": ["prophet", "Edom", "vision", "judgment", "book"] },
   { "id": "107", "word": "Jonah", "category": "Books", "taboo": ["fish", "Nineveh", "prophet", "run", "book"] },
